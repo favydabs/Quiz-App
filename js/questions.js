@@ -587,8 +587,9 @@ const questions = [
     options: ["shift()", "removeFirst()", "deleteFirst()", "splice()"],
     correctAnswer: "shift()",
   },
-  numb: 66,
   {
+  numb:66,
+
     question: "What is the result of the expression: '20' / 4 ?",
     options: ["5", "4", "'5'", "Error"],
     correctAnswer: "5",
